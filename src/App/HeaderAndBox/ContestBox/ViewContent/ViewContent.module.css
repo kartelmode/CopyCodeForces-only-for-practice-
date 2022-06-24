@@ -1,0 +1,15 @@
+.viewContent {
+    font-family: 'Cuprum', sans-serif !important;
+    display: inline-block;
+    float: left;
+    height: 20px;
+    margin-left: 0.4em;
+    margin-right: 0.4em;
+}
+
+.aElement{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    font-size: 0.8em;
+}
