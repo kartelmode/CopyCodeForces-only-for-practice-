@@ -1,0 +1,10 @@
+.root {
+    float: right;
+    border: 1px solid rgb(185, 185, 185);
+    border-radius: 5px;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    display: inline-block;
+}
