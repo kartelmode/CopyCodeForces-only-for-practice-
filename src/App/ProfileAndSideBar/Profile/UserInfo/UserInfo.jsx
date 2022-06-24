@@ -3,7 +3,6 @@ import MainInfo from './MainInfo/MainInfo.jsx'
 import UserInfoStyle from './UserInfo.module.css'
 
 export default function UserInfo({userInfo}) {
-  console.log(userInfo)
   return (
     <div className = {UserInfoStyle.userInfo}>
         <MainInfo rank = {userInfo.rank} handle = {userInfo.handle} lastName = {userInfo.lastName}
