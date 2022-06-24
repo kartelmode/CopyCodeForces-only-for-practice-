@@ -1,0 +1,6 @@
+.flags{
+    width: 50px;
+    height: 25px;
+    float: right;
+    justify-content: space-between;
+}
