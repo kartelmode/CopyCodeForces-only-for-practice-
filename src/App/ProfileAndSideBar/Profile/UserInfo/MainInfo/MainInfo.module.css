@@ -1,0 +1,15 @@
+:root {
+    --rank-color: black;
+}
+
+.rank {
+    color: var(--rank-color);
+}
+
+.legendary::first-letter {
+    color:black !important;
+}
+
+.mainInfo {
+    padding-top: 10px;
+}
