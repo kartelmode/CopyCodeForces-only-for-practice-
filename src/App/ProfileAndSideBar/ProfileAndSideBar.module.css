@@ -1,0 +1,7 @@
+.root {
+    margin-top: 15px;
+    font-family: verdana,arial,sans-serif;
+    border: 1px solid rgb(185, 185, 185);
+    border-radius: 5px;
+    display: inline-block;
+}
